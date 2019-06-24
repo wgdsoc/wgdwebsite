@@ -1,3 +1,6 @@
 # wgdwebsite
 
-The society website - written by Alex Dixon.
+The society website.
+
+Original author: Alex Dixon @dixonary
+Photographs are copyright, all rights reserved.
