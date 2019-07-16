@@ -13,11 +13,6 @@
 <p><b>In Person:</b> Come and find us at any one of our events and we'll be happy to have a chat!</p>
 
 
-
-<h2> Emergency Contact </h2>
-
-In the case of an out-of-hours emergency, please contact Alex Dixon (0778three 541 three69) in the first instance.
-
 <?php
     include 'boilerplate-bottom.php';
 ?>
